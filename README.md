@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,</br>Je m'appelle Mickael Balbona</h1>
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7F3FBF&center=true&random=false&width=435&lines=D%C3%A9veloppeur+FullStack+Web+%26+mobile;1+ans+d'exp%C3%A9riences">
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7F3FBF&center=true&random=false&width=435&lines=D%C3%A9veloppeur+FullStack+Web+%26+mobile;1+ans+d'exp%C3%A9riences">
   </a>
   <h3 align="center">Autodidacte, j'apprends toujours de nouvelles choses</h3>
 </p>
