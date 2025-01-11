@@ -21,7 +21,7 @@
 
 - 🔭 Je travaille actuellement sur **mon portfolio**
 
-- 👨‍💻 J'apprends actuellement **Angular & C#**
+- 👨‍💻 J'apprends actuellement **C#**
 
 - 🔧 IDE utilisé **VS code & Visual studio**
 
